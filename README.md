@@ -13,3 +13,4 @@ User Karyawan:
 - Jika Karyawan melakukan Create Presensi Jam Masuk pada 1 jam sebelum jam masuk maka tergolong Masuk
 - Jika Karyawan melakukan Create Presensi Jam Masuk pada jam masuk - jam pulang maka tergolong Telat
 - Jika Karyawan tidak melakukan Create Presensi Jam Masuk hingga jam pulang maka tergolong Alpha
+
