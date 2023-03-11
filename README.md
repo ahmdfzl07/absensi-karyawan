@@ -1,4 +1,4 @@
-[![Screenshot-20220926-100919.jpg](https://i.postimg.cc/BvHmMxmT/Screenshot-20220926-100919.jpg)](https://postimg.cc/cK17J8yC)
+
 
 User Admin:
 - Dapat melakukan CRUD Karyawan dengan isi sebagai berikut: No. Anggota Karyawan, Nama Karyawan, dan Random hash Password
@@ -13,5 +13,3 @@ User Karyawan:
 - Jika Karyawan melakukan Create Presensi Jam Masuk pada 1 jam sebelum jam masuk maka tergolong Masuk
 - Jika Karyawan melakukan Create Presensi Jam Masuk pada jam masuk - jam pulang maka tergolong Telat
 - Jika Karyawan tidak melakukan Create Presensi Jam Masuk hingga jam pulang maka tergolong Alpha
-
-## Donasinya Kakak https://saweria.co/maulanakevinp Terima Kasih ^_^
